@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+
+--DesaturatedDarkBlue: hsl(214, 17%, 51%);
+--GrayishBlue: hsl(212, 23%, 69%);
+--VeryDarkGrayishBlue: hsl(217, 19%, 35%);
+--LightGrayishBlue: hsl(210, 46%, 95%);
+}
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.share__text {
+    text-transform: uppercase;
+}
+
+.avatar{
+ border-radius:50% ;
+}

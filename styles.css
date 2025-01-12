@@ -234,6 +234,7 @@ hr {
   }
 
   .preview-text {
+    padding-left: 1rem;
     padding-right: 1rem;
     
   }
@@ -258,6 +259,11 @@ hr {
 
   .mobile-name-date-container{
       text-align: left;
+  }
+
+  .mobile-name-date-container .preview-text {
+      padding-left: 0;
+    
   }
 
 

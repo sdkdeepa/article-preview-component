@@ -247,7 +247,7 @@ hr {
     margin-top: 2rem;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
-    /* padding-bottom: 0.5rem; */
+    padding-bottom: 0.5rem;
   }
 
   .mobile-avatar-container {
@@ -255,10 +255,13 @@ hr {
     align-items: center;
     margin: 0;
     flex-shrink: 0;
+    padding-left: 1rem;
+    
   }
 
   .mobile-name-date-container{
       text-align: left;
+      padding-left: 1rem;
   }
 
   .mobile-name-date-container .preview-text {
